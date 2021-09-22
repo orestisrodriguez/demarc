@@ -1,0 +1,10 @@
+{
+  "name": "demarc",
+  "version": "0.0.1",
+  "description": "Scoped CSS to all",
+  "main": "index.js",
+  "author": "Orestis Rodriguez <orestis@mediatool.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": []
+}
